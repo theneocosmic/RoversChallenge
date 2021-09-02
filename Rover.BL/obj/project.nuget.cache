@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2srQyrg6F+h9hDvs67TAgH54kTr3GDRawQ2ZmXCWFsCFRZ3J/B5lJhR8jqjFbd0NFa9dJ1erQNgnysDYfwql+g==",
+  "success": true,
+  "projectFilePath": "C:\\GithubNeocosmic\\MarsRoverChallenge\\Rover.BL\\Rover.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ext.david.dzul\\.nuget\\packages\\microsoft.testplatform\\16.11.0\\microsoft.testplatform.16.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
